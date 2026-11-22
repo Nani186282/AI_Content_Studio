@@ -1,0 +1,6 @@
+streamlit
+google-genai
+pillow>=10.1
+numpy
+imageio
+imageio-ffmpeg
